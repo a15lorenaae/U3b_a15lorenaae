@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">U3b_a15lorenaae</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="elementosdialogoselect">
+        <item>Opción 1</item>
+        <item>Opción 2</item>
+        <item>Opcion 3</item>
+        <item>Opcion 4</item>
+    </string-array>
+    <string-array name="elementosdialogoselect2">
+        <item>Coche</item>
+        <item>Moto</item>
+        <item>Bici</item>
+        <item>Metro</item>
+        <item>Tren</item>
+        <item>Autobús</item>
+        <item>Andando</item>
+    </string-array>
+</resources>
